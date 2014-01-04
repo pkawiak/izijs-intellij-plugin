@@ -1,0 +1,4 @@
+.idea
+local-resources
+*.iml
+izijs-intellij-plugin.jar
